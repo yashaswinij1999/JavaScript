@@ -11,6 +11,8 @@ function vowels(s) {
   return vowels++;
 }
 
+module.exports = vowels;
+
 console.log(vowels("WebApplication"));
 console.log(vowels("Java"));
 console.log(vowels("Program"));
