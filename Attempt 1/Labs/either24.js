@@ -16,4 +16,4 @@ function either24(arr) {
 console.log(either24([4, 4, 1, 2, 2]));
 console.log(either24([1, 2, 2]));
 console.log(either24([4, 4, 1]));
-console.log(either24([1, 5, 9]));
+console.log(either24([1, 5, 9, 4, 4, 2, 2]));
