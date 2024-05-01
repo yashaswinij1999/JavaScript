@@ -21,3 +21,4 @@ console.log(post4([2, 4, 1, 2]));
 console.log(post4([4, 1, 4, 2]));
 console.log(post4([4, 4, 1, 2, 3]));
 console.log(post4([4, 1, 2, 3, 4]));
+console.log(post4([4, 4, 6, 4, 6]));
