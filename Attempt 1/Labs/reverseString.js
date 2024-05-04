@@ -8,3 +8,5 @@ function reverseString(str) {
 }
 
 console.log(reverseString("Javascript"));
+console.log(reverseString("Program "));
+console.log(reverseString("result "));
