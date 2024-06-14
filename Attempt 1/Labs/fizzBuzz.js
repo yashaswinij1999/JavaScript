@@ -17,4 +17,4 @@ function fizzBuzz(start, end) {
 
 // fizzBuzz(1, 6);
 // fizzBuzz(1, 8);
-fizzBuzz(1, 11);
+fizzBuzz(1, 11);matchUp
